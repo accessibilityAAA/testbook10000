@@ -1,0 +1,152 @@
+[
+  {
+    "id": "114-國民小學-教育理念與實務",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "教育理念與實務",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-特殊教育學校（班）-學習者發展與適性輔導",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "學習者發展與適性輔導",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-國民小學-數學能力測驗",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "數學能力測驗",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-幼兒園-學習者發展與適性輔導",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "幼兒園",
+    "subject": "學習者發展與適性輔導",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-幼兒園-教育理念與實務",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "幼兒園",
+    "subject": "教育理念與實務",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-中等學校-學習者發展與適性輔導",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "中等學校",
+    "subject": "學習者發展與適性輔導",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-中等學校-課程教學與評量",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "中等學校",
+    "subject": "課程教學與評量",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-全類科-國語文能力測驗",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "全類科",
+    "subject": "國語文能力測驗",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-特殊教育學校（班）-課程教學與評量-身心障礙組",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "課程教學與評量",
+    "group": "身心障礙組",
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-特殊教育學校（班）-課程教學與評量-資賦優異組",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "課程教學與評量",
+    "group": "資賦優異組",
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-國民小學-學習者發展與適性輔導",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "學習者發展與適性輔導",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-中等學校-教育理念與實務",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "中等學校",
+    "subject": "教育理念與實務",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-特殊教育學校（班）-教育理念與實務",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "教育理念與實務",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-國民小學-課程教學與評量",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "課程教學與評量",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  },
+  {
+    "id": "114-幼兒園-課程教學與評量",
+    "year": 114,
+    "exam_name": "114年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "幼兒園",
+    "subject": "課程教學與評量",
+    "group": null,
+    "question_count": 25,
+    "has_official_answers": true
+  }
+]

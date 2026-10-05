@@ -1,0 +1,167 @@
+[
+  {
+    "id": "115-115-全類科-國語文能力測驗",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "全類科",
+    "subject": "國語文能力測驗",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "115_全類科_國語文能力測驗(試題本)_公布用.pdf",
+    "answer_pdf": "115_全類科_國語文能力測驗(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-115-國民小學-數學能力測驗",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "數學能力測驗",
+    "question_count": 26,
+    "has_official_answers": true,
+    "question_pdf": "115_國民小學_數學能力測驗(試題本)_公布用.pdf",
+    "answer_pdf": "115_國民小學_數學能力測驗(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-3-1-115-幼兒園-教育理念與實務",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "幼兒園",
+    "subject": "教育理念與實務",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "3-1_115_幼兒園_教育理念與實務(試題本)_公布用.pdf",
+    "answer_pdf": "3-1_115_幼兒園_教育理念與實務(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-3-2-115-特殊教育學校-班-教育理念與實務",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "教育理念與實務",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "3-2_115_特殊教育學校(班)_教育理念與實務(試題本)_公布用.pdf",
+    "answer_pdf": "3-2_115_特殊教育學校(班)_教育理念與實務(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-3-3-115-國民小學-教育理念與實務",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "教育理念與實務",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "3-3_115_國民小學_教育理念與實務(試題本)_公布用.pdf",
+    "answer_pdf": "3-3_115_國民小學_教育理念與實務(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-3-4-115-中等學校-教育理念與實務",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "中等學校",
+    "subject": "教育理念與實務",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "3-4_115_中等學校_教育理念與實務(試題本)_公布用.pdf",
+    "answer_pdf": "3-4_115_中等學校_教育理念與實務(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-115-幼兒園-學習者發展與適性輔導",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "幼兒園",
+    "subject": "學習者發展與適性輔導",
+    "question_count": 25,
+    "has_official_answers": false,
+    "question_pdf": "115_幼兒園_學習者發展與適性輔導 (試題本)_公布用.pdf",
+    "answer_pdf": null
+  },
+  {
+    "id": "115-5-1-115-幼兒園-課程教學與評量",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "幼兒園",
+    "subject": "課程教學與評量",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "5-1_115_幼兒園_課程教學與評量(試題本)_公布用.pdf",
+    "answer_pdf": "5-2_115_幼兒園_課程教學與評量(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-6-1-115-特殊教育學校-班-學習者發展與適性輔導",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "學習者發展與適性輔導",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "6-1_115_特殊教育學校(班)_學習者發展與適性輔導(試題本)_公布用.pdf",
+    "answer_pdf": "6-2_115_特殊教育學校(班)_學習者發展與適性輔導(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-115-特殊教育學校-班-課程教學與評量-身心障礙組",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "課程教學與評量（身心障礙組）",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "115_特殊教育學校(班)_課程教學與評量(身心障礙組)(試題本)_公布用.pdf",
+    "answer_pdf": "115_特殊教育學校(班)_課程教學與評量(身心障礙組)(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-115-特殊教育學校-班-課程教學與評量-資賦優異組",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "特殊教育學校（班）",
+    "subject": "課程教學與評量（資賦優異組）",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "115_特殊教育學校(班)_課程教學與評量(資賦優異組) (試題本)_公布用.pdf",
+    "answer_pdf": "115_特殊教育學校(班)_課程教學與評量(資賦優異組) (選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-115-國民小學-學習者發展與適性輔導",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "學習者發展與適性輔導",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "115_國民小學_學習者發展與適性輔導(試題本)_公布用.pdf",
+    "answer_pdf": "115_國民小學_學習者發展與適性輔導(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-115-國民小學-課程教學與評量",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "國民小學",
+    "subject": "課程教學與評量",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "115_國民小學_課程教學與評量(試題本)_公布用.pdf",
+    "answer_pdf": "115_國民小學_課程教學與評量(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-11-1-115-中等學校類科-學習者發展與適性輔導",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "中等學校",
+    "subject": "學習者發展與適性輔導",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "11-1_115_中等學校類科_學習者發展與適性輔導(試題本)_公布用.pdf",
+    "answer_pdf": "11-2_115_中等學校類科_學習者發展與適性輔導(選擇題參考答案)_公布用.txt"
+  },
+  {
+    "id": "115-12-1-115-中等學校-課程教學與評量",
+    "year": 115,
+    "exam_name": "115年度高級中等以下學校及幼兒園教師資格考試",
+    "category": "中等學校",
+    "subject": "課程教學與評量",
+    "question_count": 25,
+    "has_official_answers": true,
+    "question_pdf": "12-1_115_中等學校_課程教學與評量(試題本)_公布用.pdf",
+    "answer_pdf": "12-2_115_中等學校_課程教學與評量(選擇題參考答案)_公布用.txt"
+  }
+]
